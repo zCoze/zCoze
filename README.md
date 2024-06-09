@@ -21,4 +21,3 @@
 
 Estou estudando Analise em Desenvovimento de Sistema na UMC (Universidade de Mogi das Cruzes), também sou forma em Logística pela UMC, mais foi na empresa TOTVS que descobri minha paixão pela Tecnologia.
 
-![Snake animation](https://github.com/zCoze/zCoze/blog/output/github-contribution-grid-snake.svg)
